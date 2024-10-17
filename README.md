@@ -20,3 +20,7 @@ Writing test in `Golang` is like writing a function with a few rules.
 - Run the test, see that it fails and check the error message is meaningful
 - Write enough code to make the test pass
 - Refactor
+
+## Documentation
+
+`Example` function are really useful since they provide an always up-to-date documentation. Refers to `integers/adder_test.go`.
